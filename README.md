@@ -1,10 +1,11 @@
-**Name: BHANUSRI G
-Company : CODTECH IT SOLUTIONS PVT.LTD
-ID : CT08DS9625
-Domain : Software Development
-Duration : 10 Nov 2024 - 10 Dec 2024**
+**Name: BHANUSRI G**
+**Company : CODTECH IT SOLUTIONS PVT.LTD**
+**ID : CT08DS9625**
+**Domain : Software Development**
+**Duration : 10 Nov 2024 - 10 Dec 2024**
 
 **Task - 1 --- Task Management Tool**
+
 **Introduction**
 The Task Management Tool is a console-based Java application designed to help users manage their daily tasks effectively. This application allows users to add, view, and delete tasks in a simple and user-friendly interface.
 
