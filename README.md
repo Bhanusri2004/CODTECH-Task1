@@ -64,5 +64,3 @@ Build a graphical user interface (GUI) for better usability.
 
 **Conclusion**
 The Task Management Tool is a lightweight Java application demonstrating fundamental programming concepts such as object-oriented design, data storage using ArrayList, and user interaction through menus. It can be further extended into a robust task management system.
-
-This overview can be copied into your GitHub repository's README.md file for the Task Management Tool project. Let me know if you need further assistance! 😊
